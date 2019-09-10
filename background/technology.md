@@ -2,7 +2,7 @@
 ## The technology that makes containers possible 
 https://en.wikipedia.org/wiki/File:Docker-linux-interfaces.svg
 
-![Linux Interfaces](images/Docker-linux-interfaces.svg)
+![Linux Interfaces](../images/Docker-linux-interfaces.svg)
 ### Kernel features 
 * Namespaces
 * [Cgroups](https://en.wikipedia.org/wiki/Cgroups) 
