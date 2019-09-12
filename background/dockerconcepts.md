@@ -1,7 +1,15 @@
 # Background 
 
 ## Key Docker Concepts 
-TODO: this
+* Docker Daemon / CLI  - `docker version`
+* Image 
+  * Read only 
+  * Built by you or pulled out of Artifactory 
+  * Very similar to a Jar or a Zip file
+* Container 
+  * Run time of an image 
+  * Contains everything needed to run an application
+  * Completely isolated from other containers and other things running on host system
 
 
 [Next](../hands-on/dockerrun.md)
