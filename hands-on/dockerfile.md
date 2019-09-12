@@ -1,6 +1,7 @@
 # Hands On
 ## Dockerfiles and Building Containers
-```FROM rhel:latest
+```
+FROM rhel:latest
 
 RUN echo "test" > /tmp/test.txt
 
