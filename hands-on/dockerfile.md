@@ -1,6 +1,6 @@
 # Hands On
 ## Dockerfiles and Building Containers
-`FROM rhel:latest
+```FROM rhel:latest
 
 RUN echo "test" > /tmp/test.txt
 
@@ -8,7 +8,7 @@ RUN echo "test" > /tmp/test.txt
 ADD testfile /etc/testfile
 
 CMD echo Yay!
-`
+```
 
 * With these 4 directives we can build just about anything
 * Each line creates a new layer 
