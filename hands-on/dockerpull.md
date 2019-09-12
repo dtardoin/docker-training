@@ -1,7 +1,6 @@
 # Hands On
 ## Registries and Docker Pull 
 
-* Registries are artifact storage for Docker Images 
 * Workflow: 
   1. CI: build & push to registry 
   1. Server: pull and run 
