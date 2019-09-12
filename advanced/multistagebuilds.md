@@ -1,4 +1,4 @@
-#Hands On
+# Advanced
 ## Multi-stage Builds
 #TODO: this
 https://docs.docker.com/develop/develop-images/multistage-build/#name-your-build-stages
