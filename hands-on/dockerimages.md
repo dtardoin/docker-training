@@ -2,7 +2,9 @@
 ## Images 
 
 `docker images`
+
 ---
+
 `docker pull platform-dev/base/rhel:7.7.20190830-d85ca3b8-b1`
 
 * Tags are meant for humans - Image IDs are the authoritative image identifier. 
