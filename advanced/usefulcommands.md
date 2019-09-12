@@ -22,6 +22,7 @@ echo $TEST_VAR
 ```
 
 ### Volume Mount
+Mount local files into container
 ```
 docker run -v $(pwd):/tmp -it rhel /bin/bash 
 
@@ -30,9 +31,10 @@ ls /tmp
 ```
 
 
-*Note*: if used incorrectly, this can violate 
+*Note*: this should be used carefully, you can mount a volume over top of files that already exist!
 
 ### Log 
+Get stdout logs from a container running in the background.
 
 ```
 docker run -d -p 8080:80 --name=nginx-webserver nginx 
