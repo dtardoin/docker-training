@@ -1,4 +1,4 @@
-#Hands On
+# Hands On
 ## Dockerfiles and Building Containers
 `FROM rhel:latest
 
