@@ -1,5 +1,5 @@
 # Background 
-## The technology that makes containers possible 
+## The Technology That Makes Containers Possible 
 
 ### Kernel features 
 * [Namespaces](https://en.wikipedia.org/wiki/Linux_namespaces)
@@ -13,7 +13,7 @@
 **Note**: Docker not available in RHEL 6 because of kernel dependencies.
 
 ![Linux Interfaces](../images/Docker-linux-interfaces.svg)
+From [Wikipedia](https://en.wikipedia.org/wiki/Docker_(software))
 
-
-[Next](vmsvscontainers.d)
+[Next](vmsvscontainers.md)
 
