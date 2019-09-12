@@ -6,6 +6,7 @@
   * Read only 
   * Built by you or pulled out of Artifactory 
   * Very similar to a Jar or a Zip file
+  * Done correctly - gives you an audit trail of exactly what's in the container
 * Container 
   * Run time of an image 
   * Contains everything needed to run an application
